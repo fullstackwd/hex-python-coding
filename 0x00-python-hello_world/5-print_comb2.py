@@ -4,4 +4,3 @@ for i in range(0,100):
         print(i)
     else:
         print("{:0>2d}".format(i), end=", ")
-        
