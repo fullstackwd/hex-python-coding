@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 """ Import modules, sys and own functions """
+
 from sys import argv
 import json
 save_to_json_file = __import__('3-save_to_json_file').save_to_json_file
