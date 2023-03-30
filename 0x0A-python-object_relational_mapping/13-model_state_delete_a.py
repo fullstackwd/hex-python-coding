@@ -18,4 +18,3 @@ if __name__ == '__main__':
     state.delete(synchronize_session=False)
     session.commit()
     session.close()
-

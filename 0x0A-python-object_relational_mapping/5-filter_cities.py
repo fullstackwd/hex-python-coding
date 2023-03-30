@@ -30,4 +30,3 @@ if __name__ == '__main__':
 
     if rows is not None:
         print(", ".join(city[0] for city in rows))
-
